@@ -1,1 +1,2 @@
-python3 -m TelethonHell
+echo "Starting HellBot on Mogenius"
+python3 webapp.py
