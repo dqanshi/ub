@@ -1,1 +1,1 @@
-python3 webapp.py
+worker: python3 -m TelethonHell
